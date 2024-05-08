@@ -25,3 +25,5 @@ Features:
 View the code repository on Github [here](https://github.com/wellheythereMJ/13-eCommBackEnd).
 
 Walkthrough video below:
+
+https://github.com/wellheythereMJ/13-eCommBackEnd/assets/153553474/f96b13f4-90d3-4796-b87a-6bd94d9d08ee
